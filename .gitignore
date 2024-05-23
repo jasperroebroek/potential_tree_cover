@@ -1,0 +1,11 @@
+*.so
+*.c
+*.html
+*.egg-info
+*__pycache__
+
+build
+data
+data_processed
+data_reprojected
+cachedir

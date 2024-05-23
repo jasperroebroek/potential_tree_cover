@@ -1,0 +1,19 @@
+cartopy>=0.20
+focal-stats==0.0.5
+geopandas
+joblib
+rioxarray
+seaborn
+sklearn-quantile==0.0.29
+scikit-learn<=1.4.2
+scikit-image
+statsmodels
+tqdm
+dask
+beautifulsoup4
+python-dotenv
+pytest
+ipython
+cython
+
+# pip install geomappy==0.0.6
